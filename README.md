@@ -10,7 +10,10 @@
 
 You can view or download the full project report from the link below:
 
-[➡️ Click here to view the Coursework PDF](./Coursework_Report.pdf)
+[➡️ Click here to view the Coursework PDF](./https://github.com/lakmal-yapa-22/PRF-COURSEWORK/blob/b4bb738addc7ce0c4a6a126f050afa49c5822fc9/PRF%20Course%20Work_GDSE%2071.pdf)
+
+
+
 
 ## 🔍 Overview
 
