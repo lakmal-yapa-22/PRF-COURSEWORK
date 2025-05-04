@@ -6,6 +6,12 @@
 
 ---
 
+## 📄 Project Report (PDF)
+
+You can view or download the full project report from the link below:
+
+[➡️ Click here to view the Coursework PDF](./Coursework_Report.pdf)
+
 ## 🔍 Overview
 
 This Command Line Interface (CLI) application is a **Stock Management System** developed for **Pigeon Service**, a distributed company managing imports and wholesale stock. The system simulates real-world operations like login authentication, supplier and item management, and password security using only arrays and fundamental Java features.
