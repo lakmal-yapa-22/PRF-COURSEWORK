@@ -66,4 +66,7 @@ This Command Line Interface (CLI) application is a **Stock Management System** d
 ---
 
 ## Sreenshots
-![image alt](https://github.com/lakmal-yapa-22/FinalProject_AAD/blob/020651fa601cff77f2b9f1ebd9f9ca695d5883c3/Screenshot%202025-04-23%20101059.png)
+![image alt](https://github.com/lakmal-yapa-22/PRF-COURSEWORK/blob/19130fa347e7f41f548d919ef3159812156bd8fc/Screenshot%202025-05-04%20180520.png)
+
+
+
